@@ -1,12 +1,13 @@
 ﻿body {
-	font-family: arial;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 15px;
-	color: #000000;
+	color: #0E0E0E;
 	padding: 0px;
+	text-align: center;
 }
 
 p{
-	text-align:left;
+	text-align:justify;
 	padding: 5px;
 }
 
@@ -18,11 +19,14 @@ hr {
 }
 
 h1, h2 {
-
+	color: #EB6160;
 	padding: 0px;
+	margin: 5px;
+
 }
 
 h2 {
+	font-size: 17px;
 
 }
 
@@ -35,10 +39,11 @@ h2 {
 }
 
 #tartalom {
-	margin: 0 auto 0 auto;
+	margin: 0 auto ;
 	padding: 0px;
 	text-align: left;
-
+	width: 1000px;
+	background-color: white;
 }
 
 #oszlop1, #oszlop3 {
