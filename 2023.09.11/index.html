@@ -3,19 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JavaScript gyakorlas</title>
-</head>
-<body>
-<form >
-    <input type="number" value="2" id="a_szam">
-    <input type="number" value="3" id="b_szam">
-    <input type="button" value="+" onclick="osszead()">
-    <input type="button" value="-" onclick="kivonas()">
-    <input type="button" value="*" onclick="szorzas()">
-    <input type="button" value="/" onclick="osztas()">
 
+    <title>JavaScript gyakorlas</title>
+    <link href="bootstrap-5.2.3-dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="d-flex flex-column align-items-center">
+<form class="d-flex flex-column align-items-center">
+   
+   <div> <input type="number" class="form-control" value="2" id="a_szam"> </div> 
+   <div> <input type="number" class="form-control" value="3" id="b_szam"> </div>
+    <div>
+    <input type="button" value="+"class="btn btn-primary" Primary onclick="osszead()">
+    <input type="button" value="-"class="btn btn-secondary"Secondary onclick="kivonas()">
+    <input type="button" value="*"class="btn btn-danger"Danger onclick="szorzas()">
+    <input type="button" value="/"class="btn btn-info"Info onclick="osztas()"> 
+    </div>
 </form>
 <div id="eredmeny"></div>
+    <script src="bootstrap-5.2.3-dist/js/bootstrap.min.js"></script>
     <script src="elso.js">
 
     </script>
