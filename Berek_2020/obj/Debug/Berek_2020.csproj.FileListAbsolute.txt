@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\bin\Debug\Berek_2020.exe.config
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\bin\Debug\Berek_2020.exe
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\bin\Debug\Berek_2020.pdb
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\obj\Debug\Berek_2020.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\obj\Debug\Berek_2020.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\obj\Debug\Berek_2020.exe
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\obj\Debug\Berek_2020.pdb
+C:\Users\hollik.evelin\Desktop\B141\Berek_2020\bin\Debug\berek2020.txt
